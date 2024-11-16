@@ -1,4 +1,4 @@
-console.log("Hello World")
+console.log('Hello World');
+console.log('JS');
 
-
-let name = 'Sai'
+let name = 'Sai';
